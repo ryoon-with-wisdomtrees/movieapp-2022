@@ -1,21 +1,3 @@
-//ctrl shift e 익스플로러 단축키
-import React from "react";
-import { checkPropTypes } from "prop-types";
-
-//Movie component는 state가 필요하지 않으므로 클래스형 컴포넌트가 아니라 함수형컴포넌트로 작성.
-function Movie() {
-  return <div>Movie</div>;
-}
-
-Movie.checkPropTypes = {
-  id: checkPropTypes.number.isRequired,
-  title: checkPropTypes.string.isRequired,
-  year: checkPropTypes.number.isRequired,
-  rating: checkPropTypes.number.isRequired,
-  genres: checkPropTypes.array.isRequired,
-  summary: checkPropTypes.string.isRequired,
-};
-
 /**_Movie =    {
         "id": 40849,
         "url": "https://yts.mx/movies/gamestop-rise-of-the-players-2022",
@@ -74,4 +56,3 @@ Movie.checkPropTypes = {
  * 
  * 
 */
-export default Movie;
