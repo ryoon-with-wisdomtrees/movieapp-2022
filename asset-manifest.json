@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SphereSRYN/movieapp-2022/static/css/main.3f6d3569.css",
+    "main.js": "/SphereSRYN/movieapp-2022/static/js/main.47f3560a.js",
+    "index.html": "/SphereSRYN/movieapp-2022/index.html",
+    "main.3f6d3569.css.map": "/SphereSRYN/movieapp-2022/static/css/main.3f6d3569.css.map",
+    "main.47f3560a.js.map": "/SphereSRYN/movieapp-2022/static/js/main.47f3560a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f6d3569.css",
+    "static/js/main.47f3560a.js"
+  ]
+}
